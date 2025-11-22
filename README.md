@@ -15,5 +15,7 @@ Ao todo, foram 505 atividades práticas, consolidando o aprendizado com exemplos
 
 #AprendiNaAlura
 
-<img width="907" height="641" alt="Certificado - Python OOP (Alura)" src="https://github.com/user-attachments/assets/103f8047-8214-4d10-9d6e-f176c2993f32" />
-<img width="908" height="640" alt="Certificado - Python OOP (Alura) - Verso" src="https://github.com/user-attachments/assets/154a6c57-4682-423d-bf34-3b345b09ea96" />
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/103f8047-8214-4d10-9d6e-f176c2993f32" alt="Certificado Frente" width="450">
+  <img src="https://github.com/user-attachments/assets/154a6c57-4682-423d-bf34-3b345b09ea96" alt="Certificado Verso" width="450">
+</div>
