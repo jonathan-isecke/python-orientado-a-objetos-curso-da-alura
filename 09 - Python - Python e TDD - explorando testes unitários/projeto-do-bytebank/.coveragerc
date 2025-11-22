@@ -1,0 +1,9 @@
+[run]  # PASSO 21
+source = ./codigo -k
+
+[report]  # PASSO 20
+exclude_lines =
+    def __str__
+
+[html]  # PASSO 21
+directory = coverage_relatorio_html
